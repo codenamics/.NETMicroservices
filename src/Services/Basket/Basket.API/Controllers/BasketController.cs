@@ -1,5 +1,6 @@
 ﻿using Basket.API.Entities;
 using Basket.API.Repositories;
+
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -43,5 +44,6 @@ namespace Basket.API.Controllers
             await _repository.DeleteBasket(userName);
             return Ok();
         }
+        
     }
 }
