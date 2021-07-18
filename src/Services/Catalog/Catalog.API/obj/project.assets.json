@@ -47,7 +47,7 @@
           "build/Microsoft.VisualStudio.Azure.Containers.Tools.Targets.targets": {}
         }
       },
-      "MongoDB.Bson/2.12.4": {
+      "MongoDB.Bson/2.13.0": {
         "type": "package",
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "5.0.0"
@@ -59,11 +59,11 @@
           "lib/netstandard2.1/MongoDB.Bson.dll": {}
         }
       },
-      "MongoDB.Driver/2.12.4": {
+      "MongoDB.Driver/2.13.0": {
         "type": "package",
         "dependencies": {
-          "MongoDB.Bson": "2.12.4",
-          "MongoDB.Driver.Core": "2.12.4",
+          "MongoDB.Bson": "2.13.0",
+          "MongoDB.Driver.Core": "2.13.0",
           "MongoDB.Libmongocrypt": "1.2.1"
         },
         "compile": {
@@ -73,11 +73,11 @@
           "lib/netstandard2.1/MongoDB.Driver.dll": {}
         }
       },
-      "MongoDB.Driver.Core/2.12.4": {
+      "MongoDB.Driver.Core/2.13.0": {
         "type": "package",
         "dependencies": {
           "DnsClient": "1.4.0",
-          "MongoDB.Bson": "2.12.4",
+          "MongoDB.Bson": "2.13.0",
           "MongoDB.Libmongocrypt": "1.2.1",
           "SharpCompress": "0.23.0",
           "System.Buffers": "4.5.1"
@@ -411,10 +411,10 @@
         "tools/zh-Hant/Microsoft.VisualStudio.Containers.Tools.Tasks.resources.dll"
       ]
     },
-    "MongoDB.Bson/2.12.4": {
-      "sha512": "cQ0DTdKIpPzqDWnu1lTbW7TU8zQkMZ6YkbICcA1x3zDQefPYi0T0WYA/t3VJbowiEH3IKNHsJ4DIFfCt9AOG7A==",
+    "MongoDB.Bson/2.13.0": {
+      "sha512": "voNakTxq2NV3n5lM+HpJXcd4UgLk7dtkzaPyqHMDtiBqKJauqFJ0XQIM6l9v2LTqP/GPiDCxf3XCTJHphxamZA==",
       "type": "package",
-      "path": "mongodb.bson/2.12.4",
+      "path": "mongodb.bson/2.13.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -427,15 +427,15 @@
         "lib/netstandard2.0/MongoDB.Bson.xml",
         "lib/netstandard2.1/MongoDB.Bson.dll",
         "lib/netstandard2.1/MongoDB.Bson.xml",
-        "mongodb.bson.2.12.4.nupkg.sha512",
+        "mongodb.bson.2.13.0.nupkg.sha512",
         "mongodb.bson.nuspec",
         "packageIcon.png"
       ]
     },
-    "MongoDB.Driver/2.12.4": {
-      "sha512": "VHg97pY81iHsmQGeJ0APa3p0NCmoO2H9cXZOsr4SxdTVR5UG4jtNCk8sURNNZyFrxXJ/OAF/eC8z+6gKM1tfLg==",
+    "MongoDB.Driver/2.13.0": {
+      "sha512": "LCnK43X32QklSCgNMHZ4B+wT5Y7TJjWkXRVPRdxlwhdmS+OT4n/nO7wc6cLZaLdtpbBQHrDvQj0DdEl0VAtAMQ==",
       "type": "package",
-      "path": "mongodb.driver/2.12.4",
+      "path": "mongodb.driver/2.13.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -448,15 +448,15 @@
         "lib/netstandard2.0/MongoDB.Driver.xml",
         "lib/netstandard2.1/MongoDB.Driver.dll",
         "lib/netstandard2.1/MongoDB.Driver.xml",
-        "mongodb.driver.2.12.4.nupkg.sha512",
+        "mongodb.driver.2.13.0.nupkg.sha512",
         "mongodb.driver.nuspec",
         "packageIcon.png"
       ]
     },
-    "MongoDB.Driver.Core/2.12.4": {
-      "sha512": "dK9huQse6wiP4mEL6kLeAoGUZmyLwfC2RCl37GWzDGmVk95vG78Nw1CO1FytJWRN5EDWtztGH3geaTQb1XP8Ig==",
+    "MongoDB.Driver.Core/2.13.0": {
+      "sha512": "bPt4U/LSKQgZV1yZ5Llv4LxmTlpm8ej2lENDj/Ttc+OS/7i9pqxIEkECjJCl576vODfexcFOtU+1+eiImBVxhQ==",
       "type": "package",
-      "path": "mongodb.driver.core/2.12.4",
+      "path": "mongodb.driver.core/2.13.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -486,7 +486,7 @@
         "lib/netstandard2.0/MongoDB.Driver.Core.xml",
         "lib/netstandard2.1/MongoDB.Driver.Core.dll",
         "lib/netstandard2.1/MongoDB.Driver.Core.xml",
-        "mongodb.driver.core.2.12.4.nupkg.sha512",
+        "mongodb.driver.core.2.13.0.nupkg.sha512",
         "mongodb.driver.core.nuspec",
         "packageIcon.png",
         "runtimes/win/native/libzstd.dll",
@@ -719,7 +719,7 @@
   "projectFileDependencyGroups": {
     "net5.0": [
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.10.14",
-      "MongoDB.Driver >= 2.12.4",
+      "MongoDB.Driver >= 2.13.0",
       "Swashbuckle.AspNetCore >= 6.1.4"
     ]
   },
@@ -773,7 +773,7 @@
           },
           "MongoDB.Driver": {
             "target": "Package",
-            "version": "[2.12.4, )"
+            "version": "[2.13.0, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

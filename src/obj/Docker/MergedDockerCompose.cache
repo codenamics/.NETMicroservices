@@ -10,6 +10,7 @@ services:
     environment:
       ASPNETCORE_ENVIRONMENT: Development
       CacheSettings:ConnectionString: basketdb:6379
+      GrpcSettings:DiscountUrl: http://discount.grpc
     image: basketapi
     ports:
     - published: 8001
@@ -45,11 +46,11 @@ services:
     restart: always
     volumes:
     - mongo_data:/data/db:rw
-  discount.api:
+  discount.grpc:
     build:
       context: C:\Users\dbaue\source\repos\.NETMicroservices\src
-      dockerfile: Services/Discount/Discount.API/Dockerfile
-    container_name: discount.api
+      dockerfile: Services/Discount/Discount.Grpc/Dockerfile
+    container_name: discount.grpc
     depends_on:
       discountdb:
         condition: service_started
@@ -57,9 +58,9 @@ services:
       ASPNETCORE_ENVIRONMENT: Development
       DatabaseSettings:ConnectionString: Server=discountdb;Port=5432;Database=DiscountDb;User
         Id=admin;Password=admin123;
-    image: discountapi
+    image: discountgrpc
     ports:
-    - published: 8002
+    - published: 8003
       target: 80
   discountdb:
     container_name: discountdb

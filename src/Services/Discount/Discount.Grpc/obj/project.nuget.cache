@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "pYjZSFu6rCHPt9OT2W2nS2n4Ddm5fJQ04FcUSKu0xJwJbPY7qOwxYenGwCnpMKou6fTLvUTcrViEHIH6sWiKhw==",
+  "dgSpecHash": "LnX0UGbludyoRLiNcGLheAtKRWJoVtAmUw6+/qqSFjsPNqd+bZO+mBMMi1MEnNjercasu0epCPdVWOlfrGe1QA==",
   "success": true,
   "projectFilePath": "C:\\Users\\dbaue\\source\\repos\\.NETMicroservices\\src\\Services\\Discount\\Discount.Grpc\\Discount.Grpc.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\npgsql\\5.0.7\\npgsql.5.0.7.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",

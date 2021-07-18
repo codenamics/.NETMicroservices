@@ -1,0 +1,15 @@
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.deps.json
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\ref\Ordering.Application.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Application.pdb
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\bin\Debug\net5.0\Ordering.Domain.pdb
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.AssemblyReference.cache
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfoInputs.cache
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.AssemblyInfo.cs
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CoreCompileInputs.cache
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.csproj.CopyComplete
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\ref\Ordering.Application.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Ordering\Ordering.Application\obj\Debug\net5.0\Ordering.Application.pdb

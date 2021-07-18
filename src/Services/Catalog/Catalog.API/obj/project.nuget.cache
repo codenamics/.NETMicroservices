@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0fukwDOFWwm+vYEyj8uBBa2gbk4eGl+anhRTcupHQP7Tm7dXylSK42p0c2e9/0hTw2j/28ado3HYegBe/f2DlQ==",
+  "dgSpecHash": "ClfhDZJ9YgxN7TLm194LTdseeKI8S8zkzxF+mb8MWSN/uOROCXgwfSwEC+eJY2jXVZYPkS5RMCJr14uMgQGzKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\dbaue\\source\\repos\\.NETMicroservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -9,9 +9,9 @@
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
-    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.bson\\2.12.4\\mongodb.bson.2.12.4.nupkg.sha512",
-    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.driver\\2.12.4\\mongodb.driver.2.12.4.nupkg.sha512",
-    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.driver.core\\2.12.4\\mongodb.driver.core.2.12.4.nupkg.sha512",
+    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.bson\\2.13.0\\mongodb.bson.2.13.0.nupkg.sha512",
+    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.driver\\2.13.0\\mongodb.driver.2.13.0.nupkg.sha512",
+    "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.driver.core\\2.13.0\\mongodb.driver.core.2.13.0.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\mongodb.libmongocrypt\\1.2.1\\mongodb.libmongocrypt.1.2.1.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
     "C:\\Users\\dbaue\\.nuget\\packages\\swashbuckle.aspnetcore\\6.1.4\\swashbuckle.aspnetcore.6.1.4.nupkg.sha512",

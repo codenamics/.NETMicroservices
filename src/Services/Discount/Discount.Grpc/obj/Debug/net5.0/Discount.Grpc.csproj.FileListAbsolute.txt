@@ -31,3 +31,5 @@ C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grp
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\ref\Discount.Grpc.dll
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.pdb
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grpc\obj\Debug\net5.0\Discount.Grpc.genruntimeconfig.cache
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Discount\Discount.Grpc\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
