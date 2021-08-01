@@ -43,3 +43,17 @@ C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
 C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Automatonymous.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\GreenPipes.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\NewId.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\RabbitMQ.Client.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\EventBus.Messages.dll
+C:\Users\dbaue\source\repos\.NETMicroservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\EventBus.Messages.pdb
